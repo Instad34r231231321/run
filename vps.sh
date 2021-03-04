@@ -1,5 +1,3 @@
-#! /bin/bash
-printf "Check Out My Channel While Waiting- https://www.youtube.com/channel/UCwWlxQ0hRK4CYmbb8CcOyYg" >&2
 {
 sudo useradd -m ALOK
 sudo adduser ALOK sudo
@@ -32,4 +30,4 @@ read -p "Paste Here: " CRP
 su - ALOK -c """$CRP"""
 printf 'Check https://remotedesktop.google.com/access/ \n'
 printf 'Your SUDO Pasword Is 8426 \n'
-printf 'Terminal issue solve - https://www.youtube.com/channel/UCwWlxQ0hRK4CYmbb8CcOyYg'
+
